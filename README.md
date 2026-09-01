@@ -1,5 +1,6 @@
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
-
+### NAME - TH KARTHIK KKRISHNA
+### REG NO - 212223240067
 ## AIM
 To use **Autopsy Digital Forensics Tool** to retrieve deleted files from a disk image.
 
@@ -72,6 +73,18 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/5f0a9ade-b10b-4723-aead-36763df532bb" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/9889823b-2a01-4d19-8154-d14b5a180a41" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6d72bccf-f947-451b-aa20-c13ab2b5b838" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/4e957c87-8c26-4ea1-86aa-44cba53a1313" />
+<img width="1600" height="892" alt="image" src="https://github.com/user-attachments/assets/223740e4-7d3f-4f78-b00e-acc9bb8ed383" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/ffd0aa4b-d05f-49d1-aaf2-f2ee38f8276e" />
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/b5bf423f-1a59-47f1-bc27-0bc3653de3fa" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/a541edac-697a-4972-a3e0-72cd4464e8dd" />
+<img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/e0b06834-8382-40e1-b1e8-c4581253f3e2" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/7a4d95ae-0825-42e1-8102-092ffd0f1606" />
+<img width="1482" height="926" alt="image" src="https://github.com/user-attachments/assets/0229fd38-0baf-43f6-92d1-123e78202f53" />
+
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
